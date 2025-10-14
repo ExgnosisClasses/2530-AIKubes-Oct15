@@ -16,7 +16,7 @@ General information for the class
 
 There is a class materials repository located at:
 
-[Class Repository](https://github.com/ExgnosisClasses/2521-AIKubes-Aug19)
+[Class Repository](https://github.com/ExgnosisClasses/2530-AIKubes-Oct15)
 
 - Additional resources will be added as needed in response to what we cover in class
 - The repository will be available for 30 days until September 20, 2025
